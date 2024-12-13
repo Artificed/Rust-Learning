@@ -1,1 +1,0 @@
-/Users/paultsai/Desktop/SLC/TPA/Desktop/Premove/Rust-Learning/learning-ownership/target/debug/learning-ownership: /Users/paultsai/Desktop/SLC/TPA/Desktop/Premove/Rust-Learning/learning-ownership/src/main.rs
